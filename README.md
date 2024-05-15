@@ -1,16 +1,4 @@
-# A Comparative Evaluation of Animation and Small Multiples For Trend Visualization on Mobile Phones
-
-This repository contains supplemental material for a research paper **A Comparative Evaluation of Animation and Small Multiples For Trend Visualization on Mobile Phones** by [Matthew Brehmer (Microsoft Research)](mailto:mabrehme@microsoft.com), [Bongshin Lee (Microsoft Research)](mailto:bongshin@microsoft.com), [Petra Isenberg (Inria)](mailto:petra.isenberg@inria.fr), and [Eun Kyoung Choe (University of Maryland)](mailto:choe@umd.edu). 
-
-It contains including source code for software used in an experiment as well as [experimental data and analysis scripts](data_analysis).
-
-<!-- This repository also includes [high-resolution versions of the paper figures](PaperFigures); figures 2-12 were generated with [ggplot2](https://ggplot2.tidyverse.org/) (see [plot_paper_figures.R](StudyDataAnalysis/plot_paper_figures.R)). This repository also contains [mobile screen capture videos](SupplementalVideos) of two experimental sessions (one with Temperature data and a second with Sleep data); the videos were recorded using an iPhone 5s running the Chrome mobile browser, with iOS accessibility controls toggled to show the touch point.     -->
-
-<img src="screenshots.png" title="The five stages of a single task, as experienced in the Animation condition (top) and in the Multiples condition (bottom), comprised of atask instruction reading phase (Steps 1–2) and a task completion phase (Steps 3–5)."  alt="The five stages of a single task, as experienced in the Animation condition (top) and in the Multiples condition (bottom), comprised of atask instruction reading phase (Steps 1–2) and a task completion phase (Steps 3–5)." style="width: 100%;"/>
-
-**Figure**: The five stages of a single task, as experienced in the Animation condition (top) and in the Multiples condition (bottom), comprised of a task instruction reading phase (Steps 1–2) and a task completion phase (Steps 3–5).
-
-This repository is maintained by [Matthew Brehmer](https://github.com/mattbrehmer).
+# A Comparative Evaluation of Animation and Small Multiples For Information Visualization on Mobile Phones
 
 ## Experiment Application Source Code
 
